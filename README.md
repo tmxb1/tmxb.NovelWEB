@@ -18,6 +18,7 @@
 首页
 
 <img width="546" height="315" alt="image" src="https://github.com/user-attachments/assets/0fbeb6e7-5c6f-4e60-bd31-282ea99b0b3f" />
+
 详细页面
 
 **后端**
